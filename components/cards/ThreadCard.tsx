@@ -72,7 +72,7 @@ function ThreadCard({
             <div className={`${isComment && "mb-10"} mt-5 flex flex-col gap-3`}>
               <div className="flex gap-3.5">
                 <Image
-                  src="/assets/heart-gray.svg"
+                  src="/assets/heart-filled.svg"
                   alt="heart"
                   width={24}
                   height={24}
